@@ -1,4 +1,5 @@
-#Movies Searching and Trending App
+**Movies Searching and Trending App**
+
 This is a Movies Searching and Trending App built with React and powered by the MoviesDB API. It allows users to search for movies, view trending movies, and explore various movie genres.
 
 Features
@@ -8,14 +9,14 @@ Trending Movies: The app showcases a selection of trending movies that are curre
 
 Genre Exploration: Users can explore movies based on different genres. The app provides a list of genres that users can select, and it fetches movies specific to the chosen genre from the API.
 
-#Technologies Used
+**Technologies Used**
 React: The app is built using the React library, which provides a fast and efficient way to develop interactive user interfaces.
 
-#Vite: Vite is used as the development server and bundler for the React app. It offers fast startup and reloading times, making the development process smooth and efficient.
+Vite: Vite is used as the development server and bundler for the React app. It offers fast startup and reloading times, making the development process smooth and efficient.
 
-#MoviesDB API: The app integrates with the MoviesDB API to fetch movie data, including search results, trending movies, and genre-specific movies.
+MoviesDB API: The app integrates with the MoviesDB API to fetch movie data, including search results, trending movies, and genre-specific movies.
 
-Getting Started
+**Getting Started**
 To get a local copy of the project up and running, follow these steps:
 
 Clone the repository: https://github.com/e/your-repo.git](https://github.com/coder-adnan/Movies-App-React-JS)
